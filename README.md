@@ -7,11 +7,4 @@ I wanted to learn basics of a 2D game, it was really enjoying to build a game en
 The game is inspired by the Pacman concept : player and enemies walks themselves through the grid, you just change the direction of your player. In Gotham Shadow, you play as Batman against enemies like Joker or Bane, and you have to get all fragment of lights dispatched in the map.
 
 Use keyboard arrows to change Batman's direction and enjoy the game !
-
-![Gotham Shadow Cover](https://github.com/gmoliner/GothamShadow/blob/master/GothamShadowUpdates.jpg)
-The first version is out, however i'm not done with this game : in the future there will be some awesome updates !
-- Update 1 : More level and more enemies
-- Update 2 : Differents AI enemies depending on the level
-- Update 3 : Level creator (a desire)
-
 [Play now !](https://gmoliner.github.io/GothamShadow)
